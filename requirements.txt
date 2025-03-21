@@ -1,16 +1,4 @@
 Flask
-gunicorn # Required for production deployment
-requests # If making API calls
-pandas # If using stock data analysis
-numpy # If doing numerical calculations
-scikit-learn  # If AI/ML analysis is involved
-matplotlib  # If generating stock charts
-yfinance  # If fetching stock data from Yahoo Finance
-setuptools
-wheel  # Fixes issues with some dependencies on Render
-numpy
 google-generativeai
+yfinance
 requests
-openai
-gemini
-Flask
