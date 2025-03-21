@@ -1,0 +1,50 @@
+# Python
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+*.pdb
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+*.venv
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Logs & Debugging
+logs/
+*.log
+*.out
+*.err
+*.trace
+
+# IDE / Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-workspace
+.DS_Store
+
+# Dependencies
+*.lock
+poetry.lock
+Pipfile
+Pipfile.lock
+
+# Deployment Config
+vercel.json
+render.yaml
+
+# Jupyter Notebook Checkpoints (if using)
+.ipynb_checkpoints/
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
