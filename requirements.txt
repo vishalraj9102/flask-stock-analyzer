@@ -9,3 +9,7 @@ yfinance  # If fetching stock data from Yahoo Finance
 setuptools
 wheel  # Fixes issues with some dependencies on Render
 numpy
+google-generativeai
+requests
+openai
+gemini
