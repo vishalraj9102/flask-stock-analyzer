@@ -76,3 +76,7 @@ curl -X GET "https://flask-stock-analyzer-hrc5.onrender.com/api/analyze?ticker=A
 - **Flask** - Web Framework
 - **Render** - Hosting Platform
 - **AI/ML** - For Stock Analysis
+
+## 🖼️ **Output Screenshots**
+### ✅ **Getting Result**
+![Output](flask-stock-analyzer/static/s-11.png)
